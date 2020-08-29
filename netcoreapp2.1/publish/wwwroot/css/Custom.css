@@ -8,3 +8,16 @@
 #multiselectddl .dropdown-menu.show {
     top: 70px !important;
 }
+.multiselect-native-select .caret {
+    display:none;
+}
+.sidebar {
+overflow-y:initial!important;
+padding-left:4.5rem!important;
+}
+.nav-sidebar .nav-header {
+    font-size:initial!important;
+}
+.user-panel img {
+    width:5.1rem!important;
+}
